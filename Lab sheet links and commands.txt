@@ -1,0 +1,4 @@
+Labsheet 1 link: file:///C:/Users/chean/Downloads/2241814%20Cheang%20Kai%20Yang%20Lab%201.pdf
+Labsheet 2 link: file:///C:/Users/chean/Downloads/2241814%20Cheang%20Kai%20Yang%20Lab%202.pdf
+Labsheet 3 link: file:///C:/Users/chean/Downloads/2241814%20Cheang%20Kai%20Yang%20Lab%203.pdf
+Git commands link: https://www.linkedin.com/posts/ilyasdeen_git-versioncontrol-100daysofcode-activity-7129630277747806208-zzPw/?utm_source=share&utm_medium=member_ios
